@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Back-end developer
+## Hello everyone, 👋 I'm a Back-end developer
 
 <a href="mailto:oiansheks@gmail.com">
 	  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
@@ -40,13 +40,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%231572B6?style=flat-square&logo=reactjs)
+![ReactJS](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6YIEgoh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/n7ccgsmop6f4l4ycu4uv.png)
 
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&labelColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&labelColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
