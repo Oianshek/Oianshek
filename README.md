@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
+<img align="left" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
 
 **Back-end**
 
@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![ReactJS](https://cdn-icons-png.flaticon.com/512/1230/1230534.png?w=1380)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
 
 **Tools**
 
@@ -48,9 +48,10 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&labelColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&labelColor=white)
+![Visual Studio Code](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
