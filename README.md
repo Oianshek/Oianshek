@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![ReactJS](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6YIEgoh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/n7ccgsmop6f4l4ycu4uv.png)
+![ReactJS](https://cdn-icons-png.flaticon.com/512/1230/1230534.png?w=1380)
 
 **Tools**
 
