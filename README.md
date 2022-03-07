@@ -17,6 +17,7 @@
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
 
 **Back-end**
+
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&labelColor=blue&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -56,4 +57,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 **Learning**
+
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
