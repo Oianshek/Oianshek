@@ -1,4 +1,4 @@
-## Hello everyone, 👋 I'm a Back-end developer
+## Hello everyone 👋, I'm a Back-end developer
 
 <a href="mailto:oiansheks@gmail.com">
 	  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-<img align="left" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
 
 **Back-end**
 
