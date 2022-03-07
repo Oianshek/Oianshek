@@ -17,17 +17,16 @@
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="320" />
 
 **Back-end**
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&labelColor=blue&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&labelColor=red)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&labelColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=ApacheMaven&labelColor=white&logoColor=red)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=Hibernate&labelColor=grey)
-
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&labelColor=blue&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 **Databases**
 
