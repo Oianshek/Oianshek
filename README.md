@@ -58,7 +58,3 @@
 
 **Learning**
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![OIANSHEK Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oianshek&layout=compact&count_private=true&theme=gruvbox)
